@@ -1,0 +1,5 @@
+#include<conio.sh>
+#include<stdio.sh>
+{
+Print("hello world");
+}
